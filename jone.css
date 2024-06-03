@@ -1,0 +1,107 @@
+.the body { 
+   
+    
+   
+    filter: blur(0); /* Initial state: clear */
+   padding:20px;
+
+img{object-fit: cover;
+background-repeat: no-repeat;
+
+   }
+  
+       }
+  h1,h2,p{
+    text-align: center;
+  }
+  
+  h1 {
+    font-size: 45px;
+   margin-top:0;
+   margin-bottom:15px;
+  }
+  
+  h2 {
+    font-size: 30px;
+  }
+  
+   h1, h2 {
+    font-family: Impact, serif;
+  }
+  
+  .menu {
+     
+    width: 80%;
+    background-color:brown ;
+    margin-left: auto;
+    margin-right: auto;
+   padding:20px;
+  max-width:500px;
+  
+  opacity:0.8;
+  }
+  
+   .item p {
+    display: inline-block;
+   margin-top: 5px;
+    margin-bottom: 5px;
+   font-size: 18px;
+  }
+  
+  .dish{
+  text-align:left;
+  width:75%;
+   
+  }
+   .price{
+    text-align: right;
+    width: 25%;
+  }
+   
+   
+  .established
+  {
+  font-style:italic;
+  }
+  hr{
+  height:4px;
+  background-color:yellow;
+   border-color: brown;
+  
+  }
+  /* footer*/
+  
+  footer{
+  font-size:20px,
+  }
+  a{
+  color:black;
+  }
+  a:visited{
+  background-color:orange;
+  }
+  
+  a:hover {
+    color: brown;
+  }
+  a:active{
+  background-color:yellow;
+  }
+   img {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+  height:50px;
+  width:50px;
+  margin-top:-25px;
+  }
+  p{
+   font-style: oblique;
+  }
+  p,h1,h2{
+  color:white;
+  }
+    input[type="submit"]{
+       background-color: aqua; 
+       
+    }
